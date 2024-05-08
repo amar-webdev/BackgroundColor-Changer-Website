@@ -8,4 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # BackgroundColor-Changer-Website
 
-png (https://github.com/amar-webdev/BackgroundColor-Changer-Website/blob/main/src/assets/Screenshot.png?raw=true)
+Screenshot: 
+
+![Alt text](https://github.com/amar-webdev/BackgroundColor-Changer-Website/blob/main/src/assets/Screenshot.png?raw=true)
